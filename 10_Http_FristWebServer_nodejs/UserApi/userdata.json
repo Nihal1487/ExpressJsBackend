@@ -1,0 +1,39 @@
+{
+    "id": 4581,
+    "uid": "5a2d23db-8fbf-4559-8ea9-23ea8565e34c",
+    "password": "Ft52r3qnmS",
+    "first_name": "Donnell",
+    "last_name": "Stokes",
+    "username": "donnell.stokes",
+    "email": "donnell.stokes@email.com",
+    "avatar": "https://robohash.org/quisdictaautem.png?size=300x300&set=set1",
+    "gender": "Non-binary",
+    "phone_number": "+236 1-573-683-7312 x67239",
+    "social_insurance_number": "601343494",
+    "date_of_birth": "1961-07-13",
+    "employment": {
+      "title": "Customer Legal Analyst",
+      "key_skill": "Technical savvy"
+    },
+    "address": {
+      "city": "South Damianbury",
+      "street_name": "Kulas Crossroad",
+      "street_address": "33554 Torphy Valley",
+      "zip_code": "16530",
+      "state": "South Dakota",
+      "country": "United States",
+      "coordinates": {
+        "lat": -38.730402921091866,
+        "lng": 98.19429567957644
+      }
+    },
+    "credit_card": {
+      "cc_number": "4904-5270-2014-3666"
+    },
+    "subscription": {
+      "plan": "Basic",
+      "status": "Active",
+      "payment_method": "Credit card",
+      "term": "Payment in advance"
+    }
+  }
